@@ -1,11 +1,26 @@
-## Overview
-InsightStream Datathon Analytics is a streamlined exploratory data analysis and multi-variable profiling framework built for Sheridan Datathon 2026. It focuses on isolating variance drivers, uncovering cyclical operational trends, and translating complex data into strategic insights.
+# InsightStream Datathon Analytics 🚀
+*Sheridan Datathon 2026 Submission*
 
-## Architecture & Methodology
-- **Data Ingestion & Cleaning:** Standardizes feature distributions and handles missing values to eliminate noise.
-- **Analytical Framework:** Employs multi-factor correlation matrices and segmentation modeling to identify primary performance bottlenecks.
-- **Strategic Reporting:** Structures findings for maximum clarity and rapid stakeholder communication.
+## 📌 Overview
+InsightStream Datathon Analytics is a streamlined exploratory data analysis (EDA) and multi-variable profiling framework built specifically for the Sheridan Datathon 2026. It focuses on isolating primary variance drivers, uncovering cyclical operational trends, and translating complex data into clear, actionable strategic insights.
 
-## Repository Structure
-- `README.md`: Project architecture and documentation.
-- Analysis modules and profiling scripts.
+---
+
+## 🛠️ Architecture & Methodology
+* **Data Ingestion & Cleaning:** Standardizes feature distributions, addresses missing values, and removes noise to maintain high signal integrity.
+* **Analytical Framework:** Employs multi-factor correlation matrices and segmentation modeling to identify critical performance bottlenecks.
+* **Strategic Reporting:** Structures complex statistical findings for rapid stakeholder comprehension and execution.
+
+---
+
+## 📂 Repository Structure
+```text
+insightstream-datathon/
+│
+├── README.md               # Project architecture and overview
+├── analysis/               # Profiling and exploratory notebooks
+└── reports/                # Strategic research findings & documentation
+💡 Key Findings
+Variance Concentration: Primary performance variance is heavily clustered within specific operational segments, allowing for high-impact interventions.
+
+Cyclical Patterns: Recurring temporal bottlenecks identified across standard interval cycles.
